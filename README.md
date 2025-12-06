@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Hateful Illlusions
 
 This repository contains the official implementation of the paper **Hate in Plain Sight: On the Risks of Moderating AI-Generated Hateful Illusions** (ICCV 2025).
@@ -222,6 +221,4 @@ bash scripts/run_azure.sh
   year      = {2025}
 }
 ```
-=======
-# HatefulIllusion
->>>>>>> 8286d09ca08402b5a22c03f1c50bb4a85a1b6028
+
