@@ -1,7 +1,7 @@
 # Hateful Illlusions
 
 This repository contains the official implementation of the paper **Hate in Plain Sight: On the Risks of Moderating AI-Generated Hateful Illusions** (ICCV 2025).
-
+[(arXiv link)](https://arxiv.org/abs/2507.22617)
 ---
 
 ## 📦 Installation
